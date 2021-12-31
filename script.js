@@ -7,3 +7,4 @@ document.addEventListener("DOMContentLoaded", () => {
     $target.classList.toggle("is-active");
   });
 });
+const startButtons = document.querySelectorAll(".start");
