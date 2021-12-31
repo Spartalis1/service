@@ -1,0 +1,7 @@
+@import "bulma/bulma.sass";
+.bulma-arrow-mixin {
+  @include arrow($primary);
+}
+#header {
+  box-shadow: 1px 3px 3px 3px rgba(0, 0, 0, 0.2);
+}
